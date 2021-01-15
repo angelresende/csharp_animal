@@ -6,6 +6,12 @@ Em seguida conclua qual dos animais seguintes foi escolhido, através das três 
 <img alt="desafio" src= "https://github.com/angelresende/csharp_animal/blob/main/UOJ_1049_b.png" width="600px">
 </h2>
 
+Entrada
+A entrada contém 3 palavras, uma em cada linha, necessárias para identificar o animal segundo a figura acima, com todas as letras minúsculas.
+
+Saída
+Imprima o nome do animal correspondente à entrada fornecida.
+
 <h2 align="center">
 <img alt="saida1" src= "https://github.com/angelresende/csharp_animal/blob/main/sa%C3%ADda%201.PNG" width="400px">
 </h2>
@@ -17,9 +23,3 @@ Em seguida conclua qual dos animais seguintes foi escolhido, através das três 
 <h2 align="center">
 <img alt="saida3" src= "https://github.com/angelresende/csharp_animal/blob/main/sa%C3%ADda%203.PNG" width="400px">
 </h2>
-
-Entrada
-A entrada contém 3 palavras, uma em cada linha, necessárias para identificar o animal segundo a figura acima, com todas as letras minúsculas.
-
-Saída
-Imprima o nome do animal correspondente à entrada fornecida.
